@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>лучший ученик</title>
+</head>
+<body>
+<h1>я Маслов Анатолий </h1>
+<p>поставте мне 10 пожалуйста</p>
+</body>
+</html>
